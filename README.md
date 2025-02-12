@@ -1,7 +1,3 @@
-Thanks for sharing the CSS file! Here's the updated `README.md` with details on how the CSS styles the HTML form:
-
----
-
 # Registration Form
 
 This is a simple, styled registration form built using HTML and CSS. It collects essential user information such as first name, last name, email, and password. Additionally, users can choose their account type, upload a profile picture, input their age, and select how they heard about the service.
